@@ -1,6 +1,6 @@
 # README #
 
-This README refers to Node School. This event took place at Coworking Faro (02-08-2014)
+This README refers to Node School. This event took place at Coworking Faro (02-08-2014).
 The event had 13 node.js challenges and the code was submitted and verified by a platform called learnyounode
 
 ### Install ###
